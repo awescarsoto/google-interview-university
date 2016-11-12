@@ -166,7 +166,7 @@ I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://
 
 ## About Google
 - [ ] How Search Works:
-    - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
@@ -177,7 +177,7 @@ I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://
     - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [ ] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=spDg-Q7zmcM)
+- [x] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=spDg-Q7zmcM)
 
 ## About Video Resources
 
